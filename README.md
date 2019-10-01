@@ -3,8 +3,8 @@
 If you want to build the data set used here yourself, just open a console and type:
 
 ```sh
-# retrieve data from MPG.PuRe and
-# crawl Max Planck Institutes
+git clone https://github.com/dh-thesis/build.git
+cd build
 ./init
 ```
 
