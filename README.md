@@ -1,4 +1,6 @@
-# Build Data Set (For Reproduction)
+# Build Data Set
+
+If you want to build the data set used here yourself just open a console and type:
 
 ```sh
 # retrieve data from MPG.PuRe and
